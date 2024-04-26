@@ -362,7 +362,7 @@ imageContainer{
             flex: 20%;
             margin: 20px 5px 0px 5px;
             flex-grow: 0;
-            font-size: 16px;
+            font-size: 8px;
             font-weight: 500;
             cursor: pointer;
             color: lightgray;
