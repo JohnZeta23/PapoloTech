@@ -101,6 +101,11 @@ width: 100vw;
 padding:40px 0;
 height: 100%;
 }
+
+ .slider-image-container>img{
+            width: 79%;
+        }
+		
 .sliderTitle{
     position: absolute;
   right: 7%;
