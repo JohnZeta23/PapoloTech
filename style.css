@@ -66,6 +66,7 @@ nav{
 .navBotomItem{
  flex: 15%;
  margin-top: 20px;
+ margin-right: 20px;
  flex-grow: 0;
  font-size: 25px;
  font-weight: 300;
