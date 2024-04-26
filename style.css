@@ -393,7 +393,7 @@ imageContainer{
         .buyButton{
              right: 2%;
              bottom: 5%;
-             font-size: 20px;
+             font-size: 25px;
              font-weight: 400;
              background-color: #111;
              padding: 5px 10px;
@@ -957,6 +957,15 @@ a {
             cursor: pointer;
             color: lightgray;
            }
+		   
+		    .buyButton{
+             right: 2%;
+             bottom: 5%;
+             font-size: 25px;
+             font-weight: 400;
+             background-color: #111;
+             padding: 5px 10px;
+           }
 }
 @media (min-width:480px) and (max-width:599px)  { /* smartphones, Android phones, landscape iPhone */
   .footer-content {
@@ -982,6 +991,15 @@ a {
             font-weight: 500;
             cursor: pointer;
             color: lightgray;
+           }
+		   
+		    .buyButton{
+             right: 2%;
+             bottom: 5%;
+             font-size: 25px;
+             font-weight: 400;
+             background-color: #111;
+             padding: 5px 10px;
            }
 }
 @media (min-width:600px) and (max-width: 800px)  { /* portrait tablets, portrait iPad, e-readers (Nook/Kindle), landscape 800x480 phones (Android) */
