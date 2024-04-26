@@ -963,6 +963,18 @@ a {
             color: lightgray;
            }
 		   
+		      .slider{
+        height: 60vh;
+        clip-path:none;
+        }
+        .slider-image-container{
+            width: 300px;
+            height: 300px;
+        }
+        .slider-image-container>img{
+            width: 100%;
+        }
+		   
 		    .buyButton{
              right: 2%;
              bottom: 5%;
@@ -998,6 +1010,17 @@ a {
             color: lightgray;
            }
 		   
+		      .slider{
+        height: 60vh;
+        clip-path:none;
+        }
+        .slider-image-container{
+            width: 300px;
+            height: 300px;
+        }
+        .slider-image-container>img{
+            width: 100%;
+        }
 		    .buyButton{
              right: 2%;
              bottom: 5%;
